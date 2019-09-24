@@ -17,4 +17,6 @@ https://www.hackster.io/ben-eagan/raspberry-pi-automated-plant-watering-with-web
 - water bucket
 - wooden box to hide the hardware and water bucket
 
+## Scheduling tasks with Cron
 
+https://www.raspberrypi.org/documentation/linux/usage/cron.md
